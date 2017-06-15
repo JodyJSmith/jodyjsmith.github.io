@@ -1,3 +1,5 @@
 ---
-"# jodyjsmith.github.io" 
+show-avatar: true
 ---
+"# jodyjsmith.github.io" 
+
