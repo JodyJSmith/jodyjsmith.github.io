@@ -1,1 +1,1 @@
-![Image of Jody](https://github.com/JodyJSmith/jodyjsmith.github.io/blob/master/img/jody.jpg)
+![Image of Jody](https://jodyjsmith.github.io/img/jody.jpg)
